@@ -1,7 +1,7 @@
 # LibreDevice OS — সম্পূর্ণ Concept Document
 
 **Version:** 1.0  
-**Author:** Ojana, Bogra, Bangladesh  
+**Author:** Md Khalid Hassan, Bogra, Bangladesh  
 **Year:** 2026  
 **License:** CC BY-SA 4.0
 
@@ -553,5 +553,5 @@ LibreDevice OS একটি কাল্পনিক কিন্তু technica
 ---
 
 *LibreDevice OS Concept Document | Version 1.0 | 2026*
-*Conceptualized by Ojana, Bogra, Bangladesh*
+*Conceptualized by MD khalid Hassan, Bogra, Bangladesh*
 *License: CC BY-SA 4.0*
