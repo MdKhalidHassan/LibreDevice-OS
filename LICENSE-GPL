@@ -1,0 +1,49 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2026 Ojana
+
+This license applies to any software code derived from or implementing
+the LibreDevice OS concept.
+
+Everyone is permitted to copy and distribute verbatim copies of this
+license document, but changing it is not allowed.
+
+PREAMBLE
+
+The GNU General Public License is a free, copyleft license for software.
+When we speak of free software, we are referring to freedom, not price.
+
+The key conditions:
+
+  ✅ Freedom to use — Run the program for any purpose
+  ✅ Freedom to study — Access and study the source code
+  ✅ Freedom to share — Redistribute copies
+  ✅ Freedom to improve — Modify and release improvements
+
+  🔒 Copyleft condition:
+     Any derived work MUST also be distributed under GPL v3.
+     You CANNOT make it closed-source or proprietary.
+     Source code MUST remain available to everyone.
+
+This means:
+  ❌ You cannot take this code and make a closed-source product
+  ❌ You cannot patent implementations to restrict others
+  ✅ You can use it commercially — but source must remain open
+  ✅ You can modify it — but modifications must also be GPL v3
+
+Full license text: https://www.gnu.org/licenses/gpl-3.0.txt
+
+---
+
+WHY COPYLEFT?
+
+This project believes technology should serve people, not corporations.
+Copyleft ensures that no one can take this work, make it proprietary,
+and use it to surveil or control users — which would defeat the entire
+purpose of LibreDevice OS.
+
+"প্রযুক্তি মানুষের জন্য, মানুষ প্রযুক্তির জন্য নয়।"
+(Technology is for people, people are not for technology.)
+
+                    — Ojana, 2026
